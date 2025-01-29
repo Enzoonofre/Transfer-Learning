@@ -97,9 +97,9 @@ Transfer Learning é uma maneira poderosa de economizar tempo e recursos computa
 
 ---
 
-📌 **Autor:** Seu Nome  
-📌 **GitHub:** [Seu Perfil](https://github.com/seuperfil)  
-📌 **Contato:** [seuemail@exemplo.com](mailto:seuemail@exemplo.com)  
+📌 **Autor:** Enzo Onofre 
+📌 **GitHub:** https://github.com/Enzoonofre
+📌 **Contato:** enzo.onofre@ufu.br  
 
 🚀 **Agora é sua vez!** Teste o Transfer Learning e veja como ele pode facilitar o desenvolvimento de modelos de aprendizado profundo. 😃
 
